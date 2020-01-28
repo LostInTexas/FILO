@@ -1,0 +1,16 @@
+E:\Projects\FILO.Domain\bin\Debug\netstandard2.0\FILO.Domain.deps.json
+E:\Projects\FILO.Domain\bin\Debug\netstandard2.0\FILO.Domain.dll
+E:\Projects\FILO.Domain\bin\Debug\netstandard2.0\FILO.Domain.pdb
+E:\Projects\FILO.Domain\obj\Debug\netstandard2.0\FILO.Domain.csprojAssemblyReference.cache
+E:\Projects\FILO.Domain\obj\Debug\netstandard2.0\FILO.Domain.AssemblyInfoInputs.cache
+E:\Projects\FILO.Domain\obj\Debug\netstandard2.0\FILO.Domain.AssemblyInfo.cs
+E:\Projects\FILO.Domain\obj\Debug\netstandard2.0\FILO.Domain.dll
+E:\Projects\FILO.Domain\obj\Debug\netstandard2.0\FILO.Domain.pdb
+\\192.168.0.16\Public\Projects\FILO.Domain\bin\Debug\netstandard2.0\FILO.Domain.deps.json
+\\192.168.0.16\Public\Projects\FILO.Domain\bin\Debug\netstandard2.0\FILO.Domain.dll
+\\192.168.0.16\Public\Projects\FILO.Domain\bin\Debug\netstandard2.0\FILO.Domain.pdb
+\\192.168.0.16\Public\Projects\FILO.Domain\obj\Debug\netstandard2.0\FILO.Domain.csprojAssemblyReference.cache
+\\192.168.0.16\Public\Projects\FILO.Domain\obj\Debug\netstandard2.0\FILO.Domain.AssemblyInfoInputs.cache
+\\192.168.0.16\Public\Projects\FILO.Domain\obj\Debug\netstandard2.0\FILO.Domain.AssemblyInfo.cs
+\\192.168.0.16\Public\Projects\FILO.Domain\obj\Debug\netstandard2.0\FILO.Domain.dll
+\\192.168.0.16\Public\Projects\FILO.Domain\obj\Debug\netstandard2.0\FILO.Domain.pdb
